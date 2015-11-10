@@ -1,0 +1,23 @@
+git config --global user.name "VladNev"
+git config --global user.email "Vladisllav96@gmail.com"
+git init создания репозитория
+git commit -m "1 Commit"
+
+git status
+
+git add .  добавления всех файлов
+
+git remove add Vlad git@github.com:Vladisllav96/Test_Vlad.git добавления репозитория
+
+git remote -v 
+
+git push Vlad master отправка кода в репозиторий
+
+
+fetch 
+
+pull отправка последней версии кода в репозиторий
+
+clone  скопровать на машину
+
+add
